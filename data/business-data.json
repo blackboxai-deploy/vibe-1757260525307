@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sample-1",
+    "userId": "admin-1",
+    "title": "Sample Business Entry",
+    "category": "General",
+    "description": "This is a sample business data entry to demonstrate the system",
+    "value": 1000,
+    "status": "active",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z",
+    "metadata": {
+      "location": "New York",
+      "priority": "medium",
+      "tags": ["sample", "demo"]
+    }
+  }
+]
